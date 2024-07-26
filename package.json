@@ -1,7 +1,7 @@
 {
   "name": "todomanager",
   "homepage": " https://abhiyadav3.github.io/Todo-Manager",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
